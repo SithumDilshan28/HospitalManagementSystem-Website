@@ -1,4 +1,4 @@
-# Hospital Management System: PHP Web Application for Online Hospital Management
+# Hospital Management System: PHP Web Application for Online Hospital Management 
 
 The Hospital Management System is a client project that involves the development of a comprehensive PHP web application. This online system serves as a centralized platform for managing various aspects of hospital operations, streamlining administrative tasks, and enhancing patient care. With a focus on efficiency and usability, the Hospital Management System provides a secure and intuitive interface for hospital staff, patients, and administrators.
 
